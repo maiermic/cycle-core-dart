@@ -1,5 +1,7 @@
 # cycle_core
 
+[![Join the chat at https://gitter.im/maiermic/cycle-core-dart](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maiermic/cycle-core-dart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A fully reactive [Dart][dart-lang] framework for Human-Computer Interaction
 (port of [Cycle.js][cycle-core-js]). See [cycle.js.org](http://cycle.js.org/)
 for more information about the fundamental ideas of this library.
