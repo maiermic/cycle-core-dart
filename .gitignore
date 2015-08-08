@@ -1,8 +1,12 @@
-# Don’t commit the following directories created by pub.
+# Don't commit the following directories created by pub.
 .buildlog
+.packages
 .pub/
 build/
 packages
+
+# Don't commit the following directories created by dartdocgen.
+dartdoc-viewer/
 
 # Or the files created by dart2js.
 *.dart.js
@@ -12,3 +16,11 @@ packages
 
 # Include when developing application packages.
 pubspec.lock
+
+# files and directories dropped by other development environments
+.project
+*.iml
+*.ipr
+*.iws
+.idea/
+.DS_Store

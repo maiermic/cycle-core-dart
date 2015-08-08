@@ -1,0 +1,14 @@
+name: cycle_core
+description: A fully reactive Dart framework for Human-Computer Interaction (port of Cycle.js).
+version: 0.0.1
+author: Michael Maier <maier1michael@gmail.com>
+homepage: https://github.com/maiermic/cycle-core-dart
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  source_gen: '>=0.4.2 <1.0.0'
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
